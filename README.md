@@ -80,7 +80,7 @@ O **Network Security Group** foi configurado para permitir apenas o tráfego nec
     ```
 2.  Clone o repositório (ou atualize):
     ```bash
-    git clone (https://github.com/Henrique-error404/MindSpace_API.git)
+    git clone https://github.com/Henrique-error404/MindSpace_API.git
     cd MindSpace_API
     git pull
     ```
