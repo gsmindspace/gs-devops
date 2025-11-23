@@ -19,7 +19,7 @@ O **MindSpace** é uma solução integrada de IoT, Mobile e Cloud Computing proj
 Para facilitar a avaliação, o código-fonte da solução foi segmentado em repositórios específicos por disciplina:
 
 * **📱 Front-End (Mobile) & Documentação Geral:**
-    * [LINK DO SEU REPOSITÓRIO PRINCIPAL (2TDSPA-GS1-MINDSPACE)]
+    * https://github.com/FIAP-MOBILE-2025-Agosto/2tdspa-gs1-mindspace.git
     * *Contém: App React Native, Documentação de DevOps e Arquitetura.*
 
 * **☕ Back-End (API Java):**
