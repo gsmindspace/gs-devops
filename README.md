@@ -34,10 +34,12 @@ Para facilitar a avaliação, o código-fonte da solução foi segmentado em rep
 
 ### 📺 Vídeos de Demonstração
 
-* **Vídeo 1 - DevOps, Cloud & CRUD:** [INSIRA O LINK DO YOUTUBE AQUI]
+* **Vídeo 1 - DevOps, Cloud & CRUD:** https://www.youtube.com/watch?v=1DBB5B5LiOI
     * *Demonstração da infraestrutura Azure, deploy da API e persistência de dados.*
 * **Vídeo 2 - Solução IoT:** https://youtu.be/9l0gPTwwPfQ
     * *Demonstração do sensor, gateway Node-RED e integração com o Back-End.*
+* **Vídeo 3 - Solução Mobile:** https://www.youtube.com/watch?v=Y1aUAPojc0E&t=2s
+      
 
 ## ☁️ Arquitetura da Solução (Cloud & DevOps)
 
