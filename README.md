@@ -14,13 +14,30 @@ O **MindSpace** é uma solução integrada de IoT, Mobile e Cloud Computing proj
 
 ---
 
-## 🎥 Links Importantes
+## 🎥 Links e Repositórios do Projeto
 
-* **Vídeo de Demonstração (DevOps & CRUD):** [INSIRA O LINK DO YOUTUBE AQUI]
-* **Vídeo de Demonstração (IoT):** [INSIRA O LINK DO YOUTUBE AQUI]
-* **Repositório GitHub:** [SEU LINK AQUI]
+Para facilitar a avaliação, o código-fonte da solução foi segmentado em repositórios específicos por disciplina:
+
+* **📱 Front-End (Mobile) & Documentação Geral:**
+    * [LINK DO SEU REPOSITÓRIO PRINCIPAL (2TDSPA-GS1-MINDSPACE)]
+    * *Contém: App React Native, Documentação de DevOps e Arquitetura.*
+
+* **☕ Back-End (API Java):**
+    * https://github.com/Henrique-error404/MindSpace_API.git
+    * *Contém: API Spring Boot, Configurações de Segurança e Data Seeder.*
+
+* **🤖 IoT (Sensores & Gateway):**
+    * https://github.com/gsmindspace/gs-IoT.git
+    * *Contém: Código C++ (Wokwi) e Fluxo JSON (Node-RED).*
 
 ---
+
+### 📺 Vídeos de Demonstração
+
+* **Vídeo 1 - DevOps, Cloud & CRUD:** [INSIRA O LINK DO YOUTUBE AQUI]
+    * *Demonstração da infraestrutura Azure, deploy da API e persistência de dados.*
+* **Vídeo 2 - Solução IoT:** [INSIRA O LINK DO YOUTUBE AQUI]
+    * *Demonstração do sensor, gateway Node-RED e integração com o Back-End.*
 
 ## ☁️ Arquitetura da Solução (Cloud & DevOps)
 
